@@ -1,0 +1,2 @@
+C:\Users\ZenBook\OneDrive\Documents\Visual Studio 2022\lab04\Lab04_2\obj\Debug\Lab04_2.csproj.AssemblyReference.cache
+C:\Users\ZenBook\OneDrive\Documents\Visual Studio 2022\lab04\Lab04_2\obj\Debug\Lab04_2.csproj.CoreCompileInputs.cache
